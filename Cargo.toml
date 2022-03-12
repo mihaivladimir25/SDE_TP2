@@ -1,0 +1,12 @@
+[package]
+name = "SDE_TP2"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[bin]]
+name = "SDE_TP2"
+path = "main.rs"
